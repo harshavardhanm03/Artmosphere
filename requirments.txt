@@ -1,0 +1,3 @@
+urlib 14.02
+pandas 0.25.0
+numpy 1.17.0
